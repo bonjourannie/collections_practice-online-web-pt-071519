@@ -25,6 +25,6 @@ end
 
 def kesha_maker(array)
   array.each do |pre_kesha|
-  
+  pre_kesha[2] = '$'
   end
 end
