@@ -34,3 +34,12 @@ def find_a(array)
     word[0] == "a"
   end
 end
+
+def sum_array(array)
+  array.each do |item|
+    if item ==
+end
+
+def add_s(array)
+  
+end
