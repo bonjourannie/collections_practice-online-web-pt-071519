@@ -4,7 +4,7 @@ end
 
 def sory_array_desc(array)
   array.sort do |left, right|
-    left<=>right 
+    right <=> left 
 end
 
 def sory_array_char_count
